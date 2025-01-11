@@ -473,7 +473,7 @@ Show
 # Gold
 #==========================
 
-Show
+Hide
     AreaLevel >= 70
     StackSize >= 1000
     BaseType == "Gold"
@@ -481,7 +481,7 @@ Show
     SetBorderColor 255 255 255
     PlayEffect Orange Temp
     
-Show
+Hide
     AreaLevel < 70
     StackSize >= 500
     BaseType == "Gold"
@@ -489,7 +489,7 @@ Show
     SetBorderColor 255 255 255
     PlayEffect Orange Temp
     
-Show
+Hide
     BaseType == "Gold"
     SetTextColor 180 180 180
     SetBorderColor 0 0 0 255
