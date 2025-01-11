@@ -295,6 +295,17 @@ Show
 # Expedition
 #==========================
 
+# B
+Show
+    BaseType "Logbook"
+    SetFontSize 35
+    SetTextColor 255 255 255
+    SetBorderColor 255 255 255
+    SetBackgroundColor 255 0 255
+    PlayAlertSound 2 200
+    PlayEffect Pink
+    MinimapIcon 1 Pink Triangle
+
 # C
 Show
     BaseType " Artifact" " Coinage"
