@@ -721,8 +721,8 @@ Show # Dex/Int helm
 #     MinimapIcon 2 Yellow Cross
 
 Show # Quivers
-    # BaseType "Primed Q" "Penetrating Q" "Volant Q" "Visceral Q"
-    BaseType "Broadhead Q" "Fire Q" "Sacral Q" "Two-Point Q" "Blunt Q" "Toxic Q" "Serrated Q" "Primed Q" "Penetrating Q" "Volant Q" "Visceral Q"
+    BaseType "Primed Q" "Penetrating Q" "Volant Q" "Visceral Q"
+    # BaseType "Broadhead Q" "Fire Q" "Sacral Q" "Two-Point Q" "Blunt Q" "Toxic Q" "Serrated Q" "Primed Q" "Penetrating Q" "Volant Q" "Visceral Q"
     Rarity Rare
     SetFontSize 35
     MinimapIcon 2 Yellow Cross
