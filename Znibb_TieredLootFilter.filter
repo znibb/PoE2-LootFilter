@@ -809,7 +809,7 @@ Show # Dex/Int boots
 
 # Weapons
 Show # Quarterstaves
-    BaseType "Expert Gothic Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Crackling Quarterstaff" "Expert Barrier Quarterstaff" "Expert Slicing Quarterstaff"
+    BaseType "Expert Gothic Quarterstaff" "Expert Crescent Quarterstaff" "Expert Long Quarterstaff" "Expert Barrier Quarterstaff" "Expert Slicing Quarterstaff"
     Rarity Rare
     SetFontSize 35
     MinimapIcon 2 Yellow Cross
