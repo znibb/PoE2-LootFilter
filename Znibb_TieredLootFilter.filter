@@ -80,8 +80,8 @@ Show
 Show
     BaseType "Orb of Alchemy" "Regal Orb" "Vaal Orb" "Exalted Orb" "Chaos Orb" "Orb of Annulment" "Orb of Chance"
     SetFontSize 35
-    SetTextColor 255 255 255
-    SetBorderColor 255 255 255
+    SetTextColor 0 0 0
+    SetBorderColor 0 0 0
     SetBackgroundColor 255 200 100
     PlayAlertSound 2 200
     PlayEffect Yellow
@@ -150,8 +150,8 @@ Show
 Show
     BaseType "Gemcutter's Prism"
     SetFontSize 35
-    SetTextColor 255 255 255
-    SetBorderColor 255 255 255
+    SetTextColor 0 0 0
+    SetBorderColor 0 0 0
     SetBackgroundColor 255 200 100
     PlayAlertSound 2 200
     PlayEffect Yellow
@@ -440,8 +440,8 @@ Show
     BaseType "Uncut Skill Gem" "Uncut Spirit Gem"
     ItemLevel >= 20
     SetFontSize 40
-    SetTextColor 0 255 255
-    SetBorderColor 0 255 255
+    SetTextColor 0 128 255
+    SetBorderColor 0 128 255
     SetBackgroundColor 255 255 255
     PlayAlertSound 6 200
     PlayEffect Cyan
