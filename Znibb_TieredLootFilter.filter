@@ -69,8 +69,8 @@ Show
 Show
     BaseType "Divine Orb"
     SetFontSize 40
-    SetTextColor 255 200 100
-    SetBorderColor 255 200 100
+    SetTextColor 255 0 0
+    SetBorderColor 255 0 0
     SetBackgroundColor 255 255 255 255
     PlayAlertSound 6 200
     PlayEffect Red
