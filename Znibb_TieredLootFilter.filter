@@ -556,7 +556,7 @@ Show
 # A
 Show # Flag potential high value uniques
     Rarity Unique
-    BaseType == "Armoured Cap" "Emerald" "Furtive Wraps" "Incense Relic" "Ornate Belt" "Ring" "Ruby" "Sapphire" "Smuggler Coat" "Stone Tower Shield" "Time-Lost Diamond" "Timeless Jewel" "Ultimate Life Flask" "Ultimate Mana Flask" "Utility Belt" "Vase Relic"
+    BaseType == "Armoured Cap" "Emerald Ring" "Furtive Wraps" "Incense Relic" "Ornate Belt" "Ring" "Ruby Ring" "Sapphire" "Smuggler Coat" "Stone Tower Shield" "Time-Lost Diamond" "Timeless Jewel" "Ultimate Life Flask" "Ultimate Mana Flask" "Utility Belt" "Vase Relic"
     SetFontSize 40
     SetTextColor 180 100 40
     SetBorderColor 180 100 40
