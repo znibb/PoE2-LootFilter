@@ -134,13 +134,12 @@ Show
     MinimapIcon 1 Yellow Circle
 
 # C - Sub-ex value
-Show
+Hide
     BaseType "Lesser Jeweller's Orb"
     SetFontSize 35
     SetTextColor 240 90 35
     SetBorderColor 240 90 35
     SetBackgroundColor 100 100 100
-    MinimapIcon 2 Yellow Circle
 
 #==========================
 # Quality Currency
