@@ -465,6 +465,18 @@ Show
     PlayEffect Cyan
     MinimapIcon 0 Cyan Triangle
 
+# B - Level 19 Spirit Gem
+Show
+    BaseType "Uncut Spirit Gem"
+    ItemLevel = 19
+    SetFontSize 40
+    SetTextColor 255 255 255
+    SetBorderColor 255 255 255
+    SetBackgroundColor 0 128 255
+    PlayAlertSound 2 200
+    PlayEffect Cyan
+    MinimapIcon 2 Cyan Triangle
+
 # Make gems pop in campaign
 Show
     BaseType "Uncut Skill Gem" "Uncut Support Gem" "Uncut Spirit Gem"
