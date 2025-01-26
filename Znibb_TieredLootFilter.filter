@@ -215,14 +215,14 @@ Show
     MinimapIcon 1 Pink Diamond
 
 # C
-Show
+Hide
     BaseType "Flesh" "Carapace" "Xoph's" "Uul-Netol's" "Sibilant" "Skittering"
     SetFontSize 35
     SetTextColor 255 0 255
     SetBorderColor 255 0 255
     SetBackgroundColor 100 100 10
     PlayEffect Pink
-    MinimapIcon 2 Pink Diamond
+    # MinimapIcon 2 Pink Diamond
 
 Show
     BaseType "Breach Splinter"
