@@ -429,7 +429,15 @@ Show
 # Fragment/Fate
 #==========================
 
-# Fragments seemingly not matchable
+Show # Citadel fragments
+    Class == "Pinnacle Keys"
+    SetFontSize 45
+    SetTextColor 0 0 0
+    SetBorderColor 0 0 0
+    SetBackgroundColor 255 255 255
+    PlayAlertSound 3 300
+    PlayEffect Pink
+    MinimapIcon 0 Pink Pentagon
 
 Show
     BaseType "An Audience with the King" "Cowardly Fate" "Deadly Fate" "Victorious Fate"
