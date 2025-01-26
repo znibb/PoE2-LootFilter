@@ -618,7 +618,8 @@ Show
 
 Show
     Class "Flask"
-Continue
+    Quality >= 8
+
 Hide # in maps
     Class "Flask"
     AreaLevel >= 65
