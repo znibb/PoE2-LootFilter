@@ -520,7 +520,7 @@ Hide
 
 Hide
     BaseType "Waystone"
-    WaystoneTier < 13
+    WaystoneTier < 14
 
 Show
     BaseType "Waystone"
