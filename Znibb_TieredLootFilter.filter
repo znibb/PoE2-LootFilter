@@ -835,7 +835,7 @@ Show # Quarterstaves
     MinimapIcon 2 Yellow Cross
 
 Show # Bows
-    BaseType "Expert Dualstring Bow"
+    BaseType "Expert Dualstring Bow" "Expert Zealot Bow" "Expert Warden Bow" "Expert Composite Bow" "Expert Shortbow"
     Rarity Rare
     SetFontSize 35
     MinimapIcon 2 Yellow Cross
